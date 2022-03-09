@@ -6,56 +6,56 @@ import ChatMessages from './ChatMessages';
 
 const messages =  [
   {
-    body: "Here's is the first message that i want to see how it'll react to long text",
+    body: "Hello and welcome to the to this meeting everyone",
+    senderId: "Patrick"
+  },
+  {
+    body: "Goodday everyone",
+    senderId: "Favour"
+  },
+  {
+    body: "Hello, I'm Randolph, the newest member of the team",
+    senderId: "Randolph"
+  },
+  {
+    body: "Welcome to the team Randolph, I'm Vivian",
     senderId: "one"
   },
   {
-    body: "Here's is the first message",
-    senderId: "one"
+    body: "Welcome, Randolph, I'm sure you'll find it easy to collaborate here. I'm Jackson by the way.",
+    senderId: "Jackson"
   },
   {
-    body: "Here's is the first message",
-    senderId: "one"
+    body: "Welcome Randolph and Goodday to you all.",
+    senderId: "Jennifer"
   },
   {
-    body: "Here's is the first message",
-    senderId: "two"
+    body: "Thank you all for the warm welcome.",
+    senderId: "Randolph"
   },
   {
-    body: "Here's is the first message",
-    senderId: "one"
+    body: "Let's wait a bit for a few more others to join before we begin the meeting",
+    senderId: "Patrick"
   },
   {
-    body: "Here's is the first message",
-    senderId: "two"
+    body: "Good idea",
+    senderId: "Winston"
   },
   {
-    body: "Here's is the first message",
-    senderId: "two"
+    body: "Yeah sure",
+    senderId: "Jackson"
   },
   {
-    body: "Here's is the first message",
-    senderId: "one"
+    body: "Hello everyone",
+    senderId: "Thomas"
   },
   {
-    body: "Here's is the first message",
-    senderId: "one"
+    body: "Hello everyone",
+    senderId: "Michael"
   },
   {
-    body: "Here's is the first message",
-    senderId: "one"
-  },
-  {
-    body: "Here's is the first message",
-    senderId: "two"
-  },
-  {
-    body: "Here's is the first message",
-    senderId: "one"
-  },
-  {
-    body: "Here's is the first message",
-    senderId: "two"
+    body: "Good afternoon everyone",
+    senderId: "John"
   },
 ]
 

@@ -1,4 +1,5 @@
 import 'react-native-gesture-handler';
+import { useState } from 'react'
 import Navigation from './Navigation';
 import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 import { Provider as PaperProvider } from 'react-native-paper';
